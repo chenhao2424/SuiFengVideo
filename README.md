@@ -37,7 +37,7 @@ HBO MAX、Amazon Prime Video、Hulu、YouTube TV、YouTube
 
 ==================================
 
-如果你也跟我一样有需要多国流媒体分流的需要，可以看看。
+如果你也跟我一样有需要流媒体分流的需要，可以看看。
 
 感谢Clash，感谢ACL4SSR.
 
