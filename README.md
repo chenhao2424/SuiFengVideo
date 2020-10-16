@@ -4,6 +4,30 @@
 
 规则为自用可能更新不及时，并不提供任何技术支持，如反馈某些媒体使用不了也可能不会解决，请慎重考虑使用。
 
+美国：
+
+HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube
+
+台湾：
+
+四季影视4GTV、Line TV、KKTV、台湾好
+
+日本：
+
+ABEMA
+
+香港：
+
+Now E、myTV SUPER（TVB）
+
+英国：
+
+BBC iplayer
+
+全球自选：
+
+Netflix
+
 ==================================
 
 自己测试的设备包括（对应图标在对应流媒体表示能否在该设备上观看，如无Clash对应平台版本，为软路由规则模式下，能否利用该设备进行观看）：
