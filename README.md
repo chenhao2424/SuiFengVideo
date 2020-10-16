@@ -53,7 +53,7 @@ ABEMA
 
 Now E（📦📱🖥️）
 
-mysuperTV（TVB）（📦📱🖥️）
+myTV SUPER（TVB）（📦📱🖥️）
 
 英国：
 
