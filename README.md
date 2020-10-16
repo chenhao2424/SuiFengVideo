@@ -25,18 +25,41 @@ PC：🖥️
 HBO MAX（📦📱🖥️）
 
 Disney +（📦📱🖥️）
-Amazon Prime Video（📦📱🖥️）、Hulu（📦📱📟🖥️）、YouTube TV（📦📱📟🖥️|iPhone、安卓和PC浏览器观看需更改定位）、YouTube（📦📱📟🖥️）
+
+Amazon Prime Video（📦📱🖥️）
+
+Hulu（📦📱📟🖥️）
+
+YouTube TV（📦📱📟🖥️|iPhone、安卓和PC浏览器观看需更改定位）
+
+YouTube（📦📱📟🖥️）
 
 台湾：
-四季影视4GTV（📦📱📟🖥️）、Line TV（📦📱🖥️）、KKTV（📦📱🖥️）、台湾好（📦📱📟🖥️）
+四季影视4GTV（📦📱📟🖥️）
 
-日本：ABEMA
+Line TV（📦📱🖥️）
 
-香港：Now E（📦📱🖥️）、mysuperTV（TVB）（📦📱🖥️）
+KKTV（📦📱🖥️）
 
-英国：BBC iplayer（📦📱🖥️）
+台湾好（📦📱📟🖥️）
 
-全球自选：Netflix（📦📱📟🖥️）
+日本：
+
+ABEMA
+
+香港：
+
+Now E（📦📱🖥️）
+
+mysuperTV（TVB）（📦📱🖥️）
+
+英国：
+
+BBC iplayer（📦📱🖥️）
+
+全球自选：
+
+Netflix（📦📱📟🖥️）
 
 ==================================
 
