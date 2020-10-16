@@ -22,7 +22,10 @@ PC：🖥️
 已经测试可用的流媒体包括：
 
 美国：
-HBO MAX（📦📱🖥️）、Disney +（📦📱🖥️）、Amazon Prime Video（📦📱🖥️）、Hulu（📦📱📟🖥️）、YouTube TV（📦📱📟🖥️|iPhone、安卓和PC浏览器观看需更改定位）、YouTube（📦📱📟🖥️）
+HBO MAX（📦📱🖥️）
+
+Disney +（📦📱🖥️）
+Amazon Prime Video（📦📱🖥️）、Hulu（📦📱📟🖥️）、YouTube TV（📦📱📟🖥️|iPhone、安卓和PC浏览器观看需更改定位）、YouTube（📦📱📟🖥️）
 
 台湾：
 四季影视4GTV（📦📱📟🖥️）、Line TV（📦📱🖥️）、KKTV（📦📱🖥️）、台湾好（📦📱📟🖥️）
