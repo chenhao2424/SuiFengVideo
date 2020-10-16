@@ -6,7 +6,7 @@
 
 ==================================
 
-自己测试的设备包括（对应图标在对应流媒体表示能否在该设备上观看）：
+自己测试的设备包括（对应图标在对应流媒体表示能否在该设备上观看，如无Clash对应平台版本，为软路由规则模式下，能否利用该设备进行观看）：
 
 Apple TV 4K：📦
 
@@ -22,18 +22,18 @@ PC：🖥️
 已经测试可用的流媒体包括：
 
 美国：
-HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube
+HBO MAX（📦📱🖥️）、Disney +（📦📱🖥️）、Amazon Prime Video（📦📱🖥️）、Hulu（📦📱📟🖥️）、YouTube TV（📦📱📟🖥️|iPhone、安卓和PC浏览器观看需更改定位）、YouTube（📦📱📟🖥️）
 
 台湾：
-四季影视4GTV、Line TV、KKTV
+四季影视4GTV（📦📱📟🖥️）、Line TV（📦📱🖥️）、KKTV（📦📱🖥️）、台湾好（📦📱📟🖥️）
 
 日本：ABEMA
 
-香港：Now E（仅限基础服务）、mysuperTV（TVB）
+香港：Now E（📦📱🖥️）、mysuperTV（TVB）（📦📱🖥️）
 
-英国：BBC iplayer
+英国：BBC iplayer（📦📱🖥️）
 
-全球自选：Netflix
+全球自选：Netflix（📦📱📟🖥️）
 
 ==================================
 
