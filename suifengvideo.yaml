@@ -187,8 +187,8 @@ rules:
  #Myvideo
  - DOMAIN-SUFFIX,myvideo.net.tw,📺 台湾流媒体
 # KKTV
- - USER-AGENT,KKTV*,📺 台湾流媒体
- - USER-AGENT,com.kktv.ios.kktv*,📺 台湾流媒体
+ #- USER-AGENT,KKTV*,📺 台湾流媒体
+ #- USER-AGENT,com.kktv.ios.kktv*,📺 台湾流媒体
  - DOMAIN,kktv-theater.kk.stream,📺 台湾流媒体
  - DOMAIN-SUFFIX,kktv.com.tw,📺 台湾流媒体
  - DOMAIN-SUFFIX,kktv.me,📺 台湾流媒体
