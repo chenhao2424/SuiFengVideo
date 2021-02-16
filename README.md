@@ -14,7 +14,7 @@ HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube
 
 日本：
 
-ABEMA
+Abema、日区Hulu
 
 香港：
 
@@ -22,7 +22,7 @@ Now E、myTV SUPER（TVB）
 
 英国：
 
-BBC iplayer
+BBC iplayer、iTV
 
 全球自选：
 
@@ -71,7 +71,9 @@ KKTV（📦📱🖥️）
 
 日本：
 
-ABEMA
+Abema（📦📱📟🖥️）
+
+日区Hulu
 
 香港：
 
@@ -82,6 +84,7 @@ myTV SUPER（TVB）（📦📱🖥️）
 英国：
 
 BBC iplayer（📦📱🖥️）
+iTV（🖥️）
 
 全球自选：
 
