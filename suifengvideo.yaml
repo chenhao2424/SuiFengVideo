@@ -7,7 +7,6 @@ external-controller: 127.0.0.1:9090
 proxies:
 #自行准备服务器吧，具体怎么写可以百度呀
 
-  
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -139,9 +138,8 @@ proxy-groups:
 
 rules:
 
- #自定义规则
 
- ###########台湾流媒体###########
+###########台湾流媒体###########
  - DOMAIN-SUFFIX,bahamut.com.tw,📺 台湾流媒体
  - DOMAIN-SUFFIX,gamer.com.tw,📺 台湾流媒体
  - DOMAIN,gamer-cds.cdn.hinet.net,📺 台湾流媒体
@@ -352,7 +350,6 @@ rules:
  - DOMAIN-SUFFIX,reproio.com,📺 日本流媒体
  - DOMAIN-SUFFIX,hjholdings.tv,📺 日本流媒体
 
- 
  
 #美国流媒体
  - DOMAIN-SUFFIX,deezer.com,📺 美国流媒体
