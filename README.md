@@ -6,7 +6,7 @@
 
 美国：
 
-HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube、Paramountp+
+HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube、Paramount+
 
 台湾：
 
