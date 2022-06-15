@@ -6,11 +6,11 @@
 
 美国：
 
-HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube
+HBO MAX、Disney +、Amazon Prime Video、Hulu、YouTube TV、YouTube、Paramountp+
 
 台湾：
 
-四季影视4GTV、Line TV、KKTV、台湾好
+四季影视4GTV、Line TV、KKTV、台湾好、Catchplay、LiTV、Friday影音、Myvideo
 
 日本：
 
@@ -18,11 +18,11 @@ Abema、日区Hulu
 
 香港：
 
-Now E、myTV SUPER（TVB）
+Now E、Viu、myTV SUPER（TVB）、亚洲电视
 
 英国：
 
-BBC iplayer、iTV
+BBC iplayer、iTV、Channel 4
 
 全球自选：
 
